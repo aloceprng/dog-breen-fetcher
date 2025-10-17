@@ -23,4 +23,5 @@ public interface BreedFetcher {
             super("Breed not found: " + breed);
         }
     }
+
 }
